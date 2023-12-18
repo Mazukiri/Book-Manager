@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="810.0" prefWidth="1339.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lynn_books_recommendation.RandomGeneratorController">
+   <children>
+      <Pane prefHeight="810.0" prefWidth="1440.0" style="-fx-background-color: A5CEE7;">
+         <children>
+            <Button fx:id="RandLit" layoutX="767.0" layoutY="263.0" mnemonicParsing="false" onMouseClicked="#clickRandomLiterature" prefHeight="70.0" prefWidth="245.0" style="-fx-background-color: F2B705; -fx-background-radius: 200;" text="Literature">
+               <font>
+                  <Font name="Berlin Sans FB" size="40.0" />
+               </font>
+            </Button>
+            <Button fx:id="Lynn" layoutX="758.0" layoutY="373.0" mnemonicParsing="false" onMouseClicked="#clickRandomLynn" prefHeight="70.0" prefWidth="568.0" style="-fx-background-color: F2B705; -fx-background-radius: 200;" text="Lynn’s prudent suggestion">
+               <font>
+                  <Font name="Berlin Sans FB" size="40.0" />
+               </font>
+            </Button>
+            <Button fx:id="RandPhi" layoutX="1061.0" layoutY="265.0" mnemonicParsing="false" onMouseClicked="#clickRandomPhilosophy" prefHeight="70.0" prefWidth="256.0" style="-fx-background-color: F2B705; -fx-background-radius: 200;" text="Philosophy">
+               <font>
+                  <Font name="Berlin Sans FB" size="40.0" />
+               </font>
+            </Button>
+            <Text fx:id="RandText" layoutX="956.0" layoutY="637.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Press those tiny buttons &#10;to get my choice !!!">
+               <font>
+                  <Font name="Berlin Sans FB" size="40.0" />
+               </font>
+            </Text>
+            <Circle fill="#f2b705" layoutX="99.0" layoutY="682.0" radius="281.0" stroke="BLACK" strokeType="INSIDE" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="280.0" layoutX="490.0" layoutY="416.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="10.0" width="200.0" />
+            <ImageView fx:id="ImageDisplay" fitHeight="258.0" fitWidth="169.0" layoutX="505.0" layoutY="430.0" onMouseClicked="#clickViewBook" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../GraphicResource/BookCover/How to think like an emperor.jpg" />
+               </image>
+            </ImageView>
+            <Text layoutX="285.0" layoutY="141.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lynn-chan’s suggestions">
+               <font>
+                  <Font name="Berlin Sans FB Demi Bold" size="96.0" />
+               </font>
+            </Text>
+            <ImageView fitHeight="50.0" fitWidth="70.0" layoutX="36.0" layoutY="40.0" onMouseClicked="#clickGoBack" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../GraphicResource/Button/4697470_arrow_back_loop_icon.png" />
+               </image>
+            </ImageView>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

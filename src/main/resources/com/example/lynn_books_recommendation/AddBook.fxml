@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.SepiaTone?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="700.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lynn_books_recommendation.AddBookController">
+   <children>
+      <Pane prefHeight="700.0" prefWidth="600.0" style="-fx-background-color: A5CEE7;">
+         <children>
+            <Text layoutX="30.0" layoutY="63.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Title: " wrappingWidth="189.6088734901439">
+               <font>
+                  <Font name="Berlin Sans FB" size="20.0" />
+               </font>
+            </Text>
+            <TextField fx:id="Title" layoutX="208.0" layoutY="31.0" prefHeight="40.0" prefWidth="336.0" />
+            <Text layoutX="30.0" layoutY="120.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Author: " wrappingWidth="189.6088734901439">
+               <font>
+                  <Font name="Berlin Sans FB" size="20.0" />
+               </font>
+            </Text>
+            <TextField fx:id="Author" layoutX="208.0" layoutY="88.0" prefHeight="40.0" prefWidth="336.0" />
+            <Text layoutX="30.0" layoutY="182.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pages" wrappingWidth="189.6088734901439">
+               <font>
+                  <Font name="Berlin Sans FB" size="20.0" />
+               </font>
+            </Text>
+            <TextField fx:id="Pages" layoutX="208.0" layoutY="155.0" prefHeight="40.0" prefWidth="336.0" />
+            <Text layoutX="30.0" layoutY="254.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Published Year" wrappingWidth="189.6088734901439">
+               <font>
+                  <Font name="Berlin Sans FB" size="20.0" />
+               </font>
+            </Text>
+            <TextField fx:id="PublishedYear" layoutX="208.0" layoutY="222.0" prefHeight="40.0" prefWidth="336.0" />
+            <Text layoutX="34.0" layoutY="314.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Description: " wrappingWidth="189.6088734901439">
+               <font>
+                  <Font name="Berlin Sans FB" size="20.0" />
+               </font>
+            </Text>
+            <Text layoutX="30.0" layoutY="541.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Cover" wrappingWidth="189.6088734901439">
+               <font>
+                  <Font name="Berlin Sans FB" size="20.0" />
+               </font>
+            </Text>
+            <TextField fx:id="TextCover" disable="true" editable="false" layoutX="208.0" layoutY="524.0" prefHeight="25.0" prefWidth="336.0" />
+            <Button fx:id="ChooseCover" layoutX="510.0" layoutY="524.0" mnemonicParsing="false" onMouseClicked="#clickChooseCover" prefHeight="25.0" prefWidth="34.0" text="...">
+               <effect>
+                  <SepiaTone />
+               </effect>
+            </Button>
+            <TextArea fx:id="Description" layoutX="207.0" layoutY="292.0" prefHeight="200.0" prefWidth="336.0" />
+            <Button fx:id="AddBook" layoutX="292.0" layoutY="613.0" mnemonicParsing="false" onMouseClicked="#clickAddBook" style="-fx-background-radius: 1000; -fx-background-color: F2B705;" text="Add Book">
+               <font>
+                  <Font name="Berlin Sans FB" size="25.0" />
+               </font>
+            </Button>
+            <Text layoutX="30.0" layoutY="581.0" strokeType="OUTSIDE" strokeWidth="0.0" text="File Directory" wrappingWidth="189.6088734901439">
+               <font>
+                  <Font name="Berlin Sans FB" size="20.0" />
+               </font>
+            </Text>
+            <TextField fx:id="TextFile" disable="true" editable="false" layoutX="208.0" layoutY="562.0" prefHeight="25.0" prefWidth="336.0" />
+            <Button fx:id="ChooseFile" layoutX="510.0" layoutY="562.0" mnemonicParsing="false" onMouseClicked="#clickChoosePDF" prefHeight="25.0" prefWidth="34.0" text="...">
+               <effect>
+                  <SepiaTone />
+               </effect>
+            </Button>
+            <Text fx:id="Error" fill="RED" layoutX="195.0" layoutY="681.0" strokeType="OUTSIDE" strokeWidth="0.0">
+               <font>
+                  <Font name="Berlin Sans FB" size="15.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

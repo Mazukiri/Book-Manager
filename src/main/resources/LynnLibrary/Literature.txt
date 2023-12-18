@@ -1,0 +1,65 @@
+
+1.
+Wuthering Heights
+Emily Brontë
+300
+1847
+Emily Brontë's only novel, this tale portrays Catherine and Heathcliff, their all-encompassing love for one another, and how this unresolved passion eventually destroys them both, leading Heathcliff to shun and abuse society. First published in 1847 under the pseudonym Ellis Bell, Wuthering Heights is considered to be a classic of English literature.
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\PDFBook\Wuthering-Heights.pdf
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\GraphicResource\BookCover\wuthering-heights-232.jpg
+2.
+And then there were none
+Agatha Christie
+272
+1939
+Considered the best mystery novel ever written by many readers, And Then There Were None is the story of ten strangers, each lured to Indian Island by a mysterious host. Once his guests have arrived, the host accuses each person of murder.
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\PDFBook\And Then There Were None (Agatha Christie) (z-lib.org).pdf
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\GraphicResource\BookCover\81B9LhCS2AL.jpg
+3.
+Norwegian Wood
+Haruki Murakami
+296 (US paperback)
+1987
+Norwegian Wood is a 1987 novel by Japanese author Haruki Murakami. The novel is a nostalgic story of loss and burgeoning sexuality. It is told from the first-person perspective of Toru Watanabe, who looks back on his days as a college student living in Tokyo.
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\PDFBook\Norwegian Wood (Haruki Murakami) (z-lib.org).pdf
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\GraphicResource\BookCover\NorwegianWood.jpg
+4.
+Men Without Women
+Haruki Murakami
+288
+2014
+Men Without Women is a 2014 collection of short stories by Japanese author Haruki Murakami, translated and published in English in 2017. The stories are about men who have lost women in their lives, usually to other men or death. The collection shares its title with Ernest Hemingway's second short story collection.
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\PDFBook\Men Without Women Stories (Haruki Murakami) (z-lib.org).pdf
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\GraphicResource\BookCover\MenWithoutWomen.jpg
+5.
+SputnikSweetheart
+Haruki Murakami
+229
+1999
+Haruki Murakami, the internationally bestselling author of Norwegian Wood and The Wind-Up Bird Chronicle, plunges us into an urbane Japan of jazz bars, coffee shops, Jack Kerouac, and the Beatles to tell this story of a tangled triangle of uniquely unrequited loves. A college student, identified only as “K,” falls in love with his classmate, Sumire. But devotion to an untidy writerly life precludes her from any personal commitments-until she meets Miu, an older and much more sophisticated businesswoman. When Sumire disappears from an island off the coast of Greece, “K” is solicited to join the search party and finds himself drawn back into her world and beset by ominous, haunting visions. A love story combined with a detective story, Sputnik Sweetheart ultimately lingers in the mind as a profound meditation on human longing.
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\PDFBook\Sputnik Sweetheart (Haruki Murakami) (z-lib.org).pdf
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\GraphicResource\BookCover\SputnikSweetheart.jpg
+6.
+ Don Quijote
+Miguel de Cervantes Saavedra
+918
+1615
+Don Quijote de la Mancha (ortografía y título original -1605-, El ingenioso hidalgo Don Quixote de la Mancha) es una de las obras cumbre de la literatura española y la literatura universal, el libro más traducido después de la Biblia, escrito por Miguel de Cervantes.
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\PDFBook\Don-Quijote.pdf
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\GraphicResource\BookCover\9781504044486.jpg
+7.
+Kaffka on the Shore
+Haruki Murakami
+505
+2002
+Kafka on the Shore is a 2002 novel by Japanese author Haruki Murakami. Its 2005 English translation was among "The 10 Best Books of 2005" from The New York Times and received the World Fantasy Award for 2006.
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\PDFBook\Kafka on the Shore (Haruki Murakami) (z-lib.org).pdf
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\GraphicResource\BookCover\KafkaOnTheShore.jpg
+8.
+Lena Rivers
+Mary J.Holmes
+298 
+1897
+A young woman born out of wedlock in New England is sent to live with rich relatives in Kentucky who make no secret of their contempt.
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\PDFBook\'Lena-Rivers.pdf
+C:\Users\Refine Bedding\Desktop\FPC\Lynn - Books recommendation\src\main\resources\GraphicResource\BookCover\LenaRiver.jpg
